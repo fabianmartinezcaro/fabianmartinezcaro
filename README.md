@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @fabianmartinezcaro
-- 👀 I’m interested in C#
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on any community or startup
 - 📫 How to reach me contacto.fabianmartinezcaro@gmail.com
