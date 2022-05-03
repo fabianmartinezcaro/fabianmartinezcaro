@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @fabianmartinezcaro
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on any community or startup
-- 📫 How to reach me contacto.fabianmartinezcaro@gmail.com
+Hey I'm Fabián Martínez and I'm a beginner programmer.
+
 
 <!---
 fabianmartinezcaro/fabianmartinezcaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
