@@ -1,4 +1,4 @@
-Hey I'm Fabián Martínez and I'm a beginner programmer.
+Hey I'm Fabián Martínez and I do monstly Frontend Programming
 
 
 <!---
