@@ -1,6 +1,6 @@
 Hey I'm Fabián Martínez and I do monstly Frontend Programming
 
-TAILWIND CSS <3
+TAILWIND CSS LUL
 
 
 <!---
