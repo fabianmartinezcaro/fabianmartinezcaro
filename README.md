@@ -1,6 +1,6 @@
-I like JavaScript
+JS
  
-Here you can find HTML/CSS Layouts
+
 
 <!---
 fabianmartinezcaro/fabianmartinezcaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
